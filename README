@@ -1,0 +1,38 @@
+# LLM-Based Mission Control Program (MCP)
+
+This project demonstrates a Mission Control Program (MCP) that accepts free-form natural language instructions ("missions") and orchestrates multiple services using an LLM (Gemini 1.5) to execute them.
+
+The MCP coordinates two core services:
+- **Image Database** (via Supabase): filters images based on timestamp.
+- **YOLO Object Detector**: detects objects (e.g. cars, cats) in the filtered images.
+
+---
+
+## 🧠 Example Mission Input
+    Detect all cars in images between 10:00 and 11:05
+
+
+The system will:
+1. Parse the instruction with an LLM
+2. Fetch matching image metadata from Supabase
+3. Run YOLO detection on those images
+4. Return the list of filenames where the object appears in the given time range
+
+
+## 📁 Project Structure
+MCP_Intern_Task/
+│
+├── orchestrator.py # Main MCP logic: parses mission, coordinates services
+├── Yolo_image_detector.py # YOLOv8 detector service (Ultralytics)
+├── DB_fetcher.py # Supabase image metadata fetcher (time range filter)
+├── LLM_mission_parser.py # Gemini 1.5-powered mission parser (LLM)
+├── requirements.txt # Dependencies
+├── CSV_MAKER # helped me fill the database.
+├── OUTPUT_EXAMPLE.txt # example for an output i got from a local run.
+└── README.md # You're here!
+
+## HOW TO RUN
+1. navigate to main folder
+2. pip install -r requirments
+3. run MAIN_mcp_orchestrator file.
+

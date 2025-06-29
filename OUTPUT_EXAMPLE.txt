@@ -1,0 +1,229 @@
+C:\Users\roeik\MCP_Intern_Task> & C:/Python313/python.exe c:/Users/roeik/MCP_Intern_Task/MAIN_mcp_orchestrator.py
+Enter mission: find cars between 11:00-12:00
+Mission received: find cars between 11:00-12:00
+Target class: car, Time range: 11:00 to 12:00
+SANITY CHECK: 200 records found in the table.
+cat.1.jpg -Excluded picture(out of range): 23:40:00
+cat.10.jpg -Excluded picture(out of range): 13:15:00
+cat.100.jpg -Excluded picture(out of range): 02:52:00
+cat.101.jpg -Excluded picture(out of range): 16:39:00
+cat.102.jpg -Excluded picture(out of range): 02:43:00
+cat.103.jpg -Excluded picture(out of range): 01:01:00
+cat.104.jpg -Excluded picture(out of range): 10:50:00
+cat.105.jpg -Excluded picture(out of range): 21:55:00
+cat.106.jpg -Excluded picture(out of range): 17:37:00
+cat.107.jpg -Excluded picture(out of range): 18:25:00
+cat.108.jpg -Excluded picture(out of range): 13:21:00
+cat.109.jpg -Excluded picture(out of range): 13:22:00
+cat.11.jpg -Excluded picture(out of range): 18:05:00
+cat.110.jpg -Excluded picture(out of range): 08:05:00
+cat.111.jpg -Excluded picture(out of range): 22:06:00
+cat.112.jpg -Excluded picture(out of range): 07:21:00
+cat.113.jpg -Excluded picture(out of range): 04:00:00
+cat.114.jpg -Excluded picture(out of range): 18:07:00
+cat.115.jpg -Excluded picture(out of range): 17:54:00
+cat.116.jpg -Excluded picture(out of range): 10:23:00
+cat.117.jpg -Excluded picture(out of range): 03:48:00
+cat.118.jpg -Excluded picture(out of range): 04:33:00
+cat.119.jpg -Excluded picture(out of range): 19:59:00
+cat.12.jpg -Excluded picture(out of range): 23:06:00
+cat.120.jpg -Excluded picture(out of range): 01:13:00
+cat.121.jpg -Excluded picture(out of range): 22:06:00
+cat.122.jpg -Excluded picture(out of range): 03:42:00
+cat.123.jpg -Excluded picture(out of range): 18:25:00
+cat.124.jpg -Excluded picture(out of range): 17:58:00
+cat.125.jpg -Excluded picture(out of range): 04:47:00
+cat.126.jpg -Excluded picture(out of range): 23:28:00
+cat.127.jpg -Excluded picture(out of range): 18:37:00
+cat.128.jpg -Excluded picture(out of range): 09:08:00
+cat.129.jpg -Excluded picture(out of range): 18:42:00
+cat.13.jpg -Excluded picture(out of range): 09:15:00
+cat.130.jpg -Excluded picture(out of range): 22:24:00
+cat.131.jpg -Excluded picture(out of range): 17:46:00
+cat.132.jpg -Excluded picture(out of range): 13:27:00
+cat.133.jpg -Excluded picture(out of range): 00:50:00
+cat.134.jpg -Excluded picture(out of range): 02:06:00
+cat.135.jpg -Excluded picture(out of range): 10:52:00
+cat.136.jpg -Excluded picture(out of range): 07:03:00
+cat.137.jpg -Excluded picture(out of range): 10:01:00
+cat.138.jpg -Excluded picture(out of range): 22:32:00
+cat.139.jpg -Excluded picture(out of range): 16:06:00
+cat.14.jpg -Included picture: 11:52:00
+cat.140.jpg -Excluded picture(out of range): 21:06:00
+cat.141.jpg -Excluded picture(out of range): 01:35:00
+cat.142.jpg -Excluded picture(out of range): 07:10:00
+cat.143.jpg -Excluded picture(out of range): 05:50:00
+cat.144.jpg -Excluded picture(out of range): 18:34:00
+cat.145.jpg -Excluded picture(out of range): 21:07:00
+cat.146.jpg -Excluded picture(out of range): 22:20:00
+cat.147.jpg -Excluded picture(out of range): 23:02:00
+cat.148.jpg -Excluded picture(out of range): 09:23:00
+cat.149.jpg -Excluded picture(out of range): 12:18:00
+cat.15.jpg -Excluded picture(out of range): 19:19:00
+cat.150.jpg -Excluded picture(out of range): 12:10:00
+cat.151.jpg -Excluded picture(out of range): 03:49:00
+cat.152.jpg -Excluded picture(out of range): 21:35:00
+cat.153.jpg -Excluded picture(out of range): 05:22:00
+cat.154.jpg -Excluded picture(out of range): 21:31:00
+cat.155.jpg -Excluded picture(out of range): 08:35:00
+cat.156.jpg -Excluded picture(out of range): 13:43:00
+cat.157.jpg -Excluded picture(out of range): 01:34:00
+cat.158.jpg -Excluded picture(out of range): 09:53:00
+cat.159.jpg -Excluded picture(out of range): 04:47:00
+cat.16.jpg -Excluded picture(out of range): 16:22:00
+cat.160.jpg -Excluded picture(out of range): 19:31:00
+cat.161.jpg -Excluded picture(out of range): 02:45:00
+cat.162.jpg -Included picture: 11:47:00
+cat.163.jpg -Excluded picture(out of range): 13:37:00
+cat.164.jpg -Excluded picture(out of range): 16:38:00
+cat.165.jpg -Excluded picture(out of range): 19:59:00
+cat.166.jpg -Excluded picture(out of range): 02:46:00
+cat.167.jpg -Excluded picture(out of range): 06:44:00
+cat.168.jpg -Excluded picture(out of range): 10:34:00
+cat.169.jpg -Excluded picture(out of range): 19:54:00
+cat.17.jpg -Excluded picture(out of range): 10:51:00
+cat.170.jpg -Excluded picture(out of range): 21:11:00
+cat.171.jpg -Excluded picture(out of range): 13:10:00
+cat.172.jpg -Excluded picture(out of range): 01:12:00
+cat.173.jpg -Excluded picture(out of range): 08:33:00
+cat.174.jpg -Excluded picture(out of range): 09:53:00
+cat.175.jpg -Excluded picture(out of range): 21:25:00
+cat.176.jpg -Excluded picture(out of range): 05:54:00
+cat.177.jpg -Excluded picture(out of range): 10:45:00
+cat.178.jpg -Excluded picture(out of range): 02:54:00
+cat.179.jpg -Excluded picture(out of range): 17:18:00
+cat.18.jpg -Excluded picture(out of range): 12:25:00
+cat.180.jpg -Excluded picture(out of range): 05:06:00
+cat.181.jpg -Excluded picture(out of range): 06:27:00
+cat.182.jpg -Excluded picture(out of range): 21:37:00
+cat.183.jpg -Excluded picture(out of range): 22:17:00
+cat.184.jpg -Excluded picture(out of range): 06:25:00
+cat.185.jpg -Excluded picture(out of range): 08:47:00
+cat.186.jpg -Excluded picture(out of range): 04:07:00
+cat.187.jpg -Excluded picture(out of range): 06:54:00
+cat.188.jpg -Excluded picture(out of range): 02:18:00
+cat.189.jpg -Excluded picture(out of range): 05:05:00
+1000.jpg -Excluded picture(out of range): 00:41:00
+1003.jpg -Excluded picture(out of range): 05:04:00
+1008.jpg -Excluded picture(out of range): 13:33:00
+1020.jpg -Excluded picture(out of range): 02:26:00
+1022.jpg -Excluded picture(out of range): 05:16:00
+1025.jpg -Excluded picture(out of range): 21:01:00
+1027.jpg -Excluded picture(out of range): 16:59:00
+1038.jpg -Excluded picture(out of range): 23:02:00
+104.jpg -Excluded picture(out of range): 16:02:00
+1043.jpg -Excluded picture(out of range): 22:46:00
+1051.jpg -Excluded picture(out of range): 03:05:00
+1059.jpg -Excluded picture(out of range): 04:06:00
+1060.jpg -Excluded picture(out of range): 19:25:00
+1064.jpg -Excluded picture(out of range): 03:52:00
+1066.jpg -Excluded picture(out of range): 12:41:00
+1072.jpg -Excluded picture(out of range): 03:56:00
+1073.jpg -Included picture: 12:00:00
+1080.jpg -Excluded picture(out of range): 23:36:00
+1084.jpg -Excluded picture(out of range): 08:50:00
+1085.jpg -Excluded picture(out of range): 09:00:00
+1086.jpg -Excluded picture(out of range): 12:43:00
+109.jpg -Excluded picture(out of range): 01:38:00
+1093.jpg -Excluded picture(out of range): 19:21:00
+1094.jpg -Excluded picture(out of range): 02:01:00
+1101.jpg -Included picture: 11:52:00
+1103.jpg -Excluded picture(out of range): 16:49:00
+1107.jpg -Excluded picture(out of range): 17:48:00
+1117.jpg -Excluded picture(out of range): 22:54:00
+1202.jpg -Excluded picture(out of range): 08:33:00
+1204.jpg -Excluded picture(out of range): 12:23:00
+1208.jpg -Excluded picture(out of range): 18:18:00
+1218.jpg -Excluded picture(out of range): 20:25:00
+1220.jpg -Excluded picture(out of range): 15:54:00
+1222.jpg -Excluded picture(out of range): 07:18:00
+1224.jpg -Excluded picture(out of range): 16:01:00
+1227.jpg -Excluded picture(out of range): 04:13:00
+1228.jpg -Excluded picture(out of range): 14:41:00
+1235.jpg -Excluded picture(out of range): 21:31:00
+1241.jpg -Excluded picture(out of range): 06:36:00
+1255.jpg -Excluded picture(out of range): 10:12:00
+1262.jpg -Excluded picture(out of range): 05:44:00
+1272.jpg -Excluded picture(out of range): 07:31:00
+1274.jpg -Excluded picture(out of range): 07:20:00
+1275.jpg -Excluded picture(out of range): 02:15:00
+1279.jpg -Excluded picture(out of range): 00:03:00
+1282.jpg -Excluded picture(out of range): 10:24:00
+1283.jpg -Excluded picture(out of range): 08:33:00
+1284.jpg -Excluded picture(out of range): 18:35:00
+1287.jpg -Excluded picture(out of range): 10:43:00
+1291.jpg -Excluded picture(out of range): 12:09:00
+1292.jpg -Excluded picture(out of range): 21:18:00
+1297.jpg -Excluded picture(out of range): 22:38:00
+1309.jpg -Excluded picture(out of range): 10:38:00
+1310.jpg -Excluded picture(out of range): 13:00:00
+1317.jpg -Excluded picture(out of range): 07:38:00
+1330.jpg -Excluded picture(out of range): 19:22:00
+1332.jpg -Excluded picture(out of range): 07:43:00
+1333.jpg -Excluded picture(out of range): 08:05:00
+1335.jpg -Excluded picture(out of range): 15:53:00
+1336.jpg -Excluded picture(out of range): 16:12:00
+134.jpg -Excluded picture(out of range): 16:07:00
+1347.jpg -Excluded picture(out of range): 09:13:00
+135.jpg -Excluded picture(out of range): 17:44:00
+138.jpg -Excluded picture(out of range): 14:58:00
+141.jpg -Excluded picture(out of range): 05:44:00
+163.jpg -Excluded picture(out of range): 02:39:00
+167.jpg -Excluded picture(out of range): 08:27:00
+176.jpg -Excluded picture(out of range): 12:29:00
+187.jpg -Excluded picture(out of range): 20:03:00
+190.jpg -Excluded picture(out of range): 03:34:00
+195.jpg -Excluded picture(out of range): 10:28:00
+205.jpg -Excluded picture(out of range): 02:49:00
+209.jpg -Excluded picture(out of range): 01:52:00
+213.jpg -Excluded picture(out of range): 00:47:00
+216.jpg -Excluded picture(out of range): 17:41:00
+222.jpg -Excluded picture(out of range): 03:07:00
+23.jpg -Excluded picture(out of range): 13:39:00
+230.jpg -Excluded picture(out of range): 10:22:00
+231.jpg -Excluded picture(out of range): 18:58:00
+232.jpg -Excluded picture(out of range): 17:57:00
+236.jpg -Excluded picture(out of range): 06:55:00
+253.jpg -Excluded picture(out of range): 03:44:00
+257.jpg -Excluded picture(out of range): 08:11:00
+259.jpg -Excluded picture(out of range): 16:25:00
+276.jpg -Excluded picture(out of range): 19:24:00
+279.jpg -Excluded picture(out of range): 23:12:00
+284.jpg -Excluded picture(out of range): 13:56:00
+290.jpg -Excluded picture(out of range): 15:46:00
+303.jpg -Included picture: 11:10:00
+308.jpg -Excluded picture(out of range): 14:20:00
+312.jpg -Excluded picture(out of range): 00:50:00
+313.jpg -Excluded picture(out of range): 14:27:00
+316.jpg -Excluded picture(out of range): 08:30:00
+321.jpg -Excluded picture(out of range): 09:05:00
+349.jpg -Included picture: 11:47:00
+355.jpg -Excluded picture(out of range): 04:37:00
+356.jpg -Excluded picture(out of range): 17:10:00
+360.jpg -Excluded picture(out of range): 17:44:00
+364.jpg -Excluded picture(out of range): 21:14:00
+382.jpg -Excluded picture(out of range): 00:03:00
+target class is:= car
+
+0: 544x640 1 cat, 157.4ms
+Speed: 3.0ms preprocess, 157.4ms inference, 1.5ms postprocess per image at shape (1, 3, 544, 640)
+
+0: 576x640 1 person, 1 cat, 169.6ms
+Speed: 3.2ms preprocess, 169.6ms inference, 1.0ms postprocess per image at shape (1, 3, 576, 640)
+
+0: 448x640 1 car, 132.8ms
+Speed: 2.2ms preprocess, 132.8ms inference, 0.9ms postprocess per image at shape (1, 3, 448, 640)
+
+0: 448x640 1 car, 128.5ms
+Speed: 2.0ms preprocess, 128.5ms inference, 0.8ms postprocess per image at shape (1, 3, 448, 640)
+
+0: 448x640 1 truck, 121.8ms
+Speed: 2.0ms preprocess, 121.8ms inference, 0.9ms postprocess per image at shape (1, 3, 448, 640)
+
+0: 384x640 1 car, 123.4ms
+Speed: 1.5ms preprocess, 123.4ms inference, 0.8ms postprocess per image at shape (1, 3, 384, 640)
+
+Images containing 'car' between 11:00 and 12:00:
+- 1073.jpg
+- 1101.jpg
+- 349.jpg
