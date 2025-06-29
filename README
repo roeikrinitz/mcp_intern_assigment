@@ -29,6 +29,8 @@ MCP_Intern_Task/
 ├── requirements.txt # Dependencies
 ├── CSV_MAKER # helped me fill the database.
 ├── OUTPUT_EXAMPLE.txt # example for an output i got from a local run.
+├── cats_images.csv # this pictures of cats and cars are already inside the supabase database, they are just for refrence and was brought from kaggle.
+├── cars_images.csv
 └── README.md # You're here!
 
 ## HOW TO RUN
