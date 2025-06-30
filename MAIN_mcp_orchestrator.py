@@ -16,8 +16,8 @@ def run_mission(mission_text):
     print(f"Target class: {target_class}, Time range: {start_time} to {end_time}")
 
     # === 2. Connect to Supabase and fetch image metadata ===
-    SUPABASE_URL = "https://tpgyjmwkfofcibihtdhl.supabase.co"
-    SUPABASE_SERVICE_ROLE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRwZ3lqbXdrZm9mY2liaWh0ZGhsIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MTAxNzA1MSwiZXhwIjoyMDY2NTkzMDUxfQ.EwHX7EPpQy9EXP4NgToP8PCKoJPneiLf_SJ6dNtr-a8"
+    SUPABASE_URL = ""
+    SUPABASE_SERVICE_ROLE_KEY = ""
     TABLE_NAME = "Images"
     db = SupabaseImageFetcher(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, TABLE_NAME, start_time, end_time)
     image_metadata = db.get_images_in_time_range()
