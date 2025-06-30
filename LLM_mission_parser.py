@@ -3,7 +3,7 @@ import json
 
 class MissionParserLLM:
     def __init__(self,model_name: str = "gemini-1.5-pro"):
-        genai.configure(api_key="AIzaSyD94Ty4f8HkPMIj2KOccGuy8_Q8PjlFQ34") # Should be stored securely, not hardcoded.
+        genai.configure(api_key="") # Should be stored securely, not hardcoded.
         self.model = genai.GenerativeModel(model_name)
 
     def parse_mission(self, user_input: str):
